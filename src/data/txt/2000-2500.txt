@@ -1,0 +1,999 @@
+||2001||妥||tuǒ||satisfactory, appropriate||nil||nil||++
+
+||2002||谣||yáo||sing; folksong, ballad; rumor||nil||nil||++
+
+||2003||缸||gāng||earthen jug, crock, cistern||nil||nil||++
+
+||2004||芒||máng||Miscanthus sinensis||nil||nil||++
+
+||2005||陵||líng||hill, mound; mausoleum||nil||nil||++
+
+||2006||雯||wén||cloud patterns, coloring of cloud||nil||nil||++
+
+||2007||轨||guǐ||track, rut, path||nil||nil||++
+
+||2008||虾||xiā||shrimp, prawn||nil||nil||++
+
+||2009||寸||cùn||inch; small, tiny; rad. no. 41||nil||nil||++
+
+||2010||呦||yōu||the bleating of the deer||nil||nil||++
+
+||2011||洒||sǎ||sprinkle, splash; scatter, throw||nil||nil||++
+
+||2012||贞||zhēn||virtuous, chaste, pure; loyal||nil||nil||++
+
+||2013||蜂||fēng||bee, wasp, hornet||nil||nil||++
+
+||2014||钻||zuàn||drill, bore; pierce; diamond||nil||nil||++
+
+||2015||厕||cè||toilet, lavatory; mingle with||nil||nil||++
+
+||2016||鹤||hè||crane; Grus species (various)||nil||nil||++
+
+||2017||摔||shuāi||fall ground, stumble, trip||nil||nil||++
+
+||2018||盒||hé||small box or case; casket||nil||nil||++
+
+||2019||虫||chóng||worms; insects||nil||nil||++
+
+||2020||氛||fēn||gas, vapor, air||nil||nil||++
+
+||2021||悄||qiǎo||silent, quiet, still; anxious||nil||nil||++
+
+||2022||霖||lín||long spell of rain, copious rain||nil||nil||++
+
+||2023||愧||kuì||ashamed, conscience-stricken||nil||nil||++
+
+||2024||斜||xié||slanting, sloping, inclined||nil||nil||++
+
+||2025||尸||shī||corpse, carcass||nil||nil||++
+
+||2026||循||xún||obey, comply with, follow||nil||nil||++
+
+||2027||俩||liǎ||clever, skilled; two, pair||nil||nil||++
+
+||2028||堡||bǎo||fort, fortress; town, village||nil||nil||++
+
+||2029||旺||wàng||prosper; prosperous; increase||nil||nil||++
+
+||2030||恶||è||evil, wicked, bad, foul||nil||nil||++
+
+||2031||叉||cha||crotch; fork, prong||nil||nil||++
+
+||2032||燕||yàn||swallow (bird); comfort, enjoy||nil||nil||++
+
+||2033||津||jīn||ferry; saliva; ford||nil||nil||++
+
+||2034||臣||chén||minister, statesman, official||nil||nil||++
+
+||2035||丧||sāng||mourning; mourn; funeral||nil||nil||++
+
+||2036||茂||mào||thick, lush, dense; talented||nil||nil||++
+
+||2037||椅||yǐ||chair, seat||nil||nil||++
+
+||2038||缠||chán||wrap, wind around; tie, bind||nil||nil||++
+
+||2039||刑||xíng||punishment, penalty; law||nil||nil||++
+
+||2040||脉||mò||blood vessels, veins, arteries||nil||nil||++
+
+||2041||杉||shān||various species of pine and fir||nil||nil||++
+
+||2042||泊||bó||anchor vessel; lie at anchor||nil||nil||++
+
+||2043||撒||sǎ||release, cast away, let go; disperse; relax||nil||nil||++
+
+||2044||递||dì||hand over, deliver; substitute||nil||nil||++
+
+||2045||疲||pí||feel tired, be exhausted; weak||nil||nil||++
+
+||2046||杆||gǎn||pole; stick; club; pole as unit||nil||nil||++
+
+||2047||趁||chèn||take advantage of, avail oneself||nil||nil||++
+
+||2048||欠||qiàn||owe, lack, be deficient; KangXi radical number 76||nil||nil||++
+
+||2049||盈||yíng||fill; full, overflowing; surplus||nil||nil||++
+
+||2050||晃||huǎng||bright, dazzling; to sway, shake||nil||nil||++
+
+||2051||蛇||shé||snake||nil||nil||++
+
+||2052||牡||mǔ||male of animals; bolt of door||nil||nil||++
+
+||2053||慎||shèn||act with care, be cautious||nil||nil||++
+
+||2054||粒||lì||grain; small particle||nil||nil||++
+
+||2055||系||xì||attach, connect, unite, fasten||nil||nil||++
+
+||2056||倦||juàn||be tired of, weary||nil||nil||++
+
+||2057||溜||liū||slide, glide, slip; slippery||nil||nil||++
+
+||2058||遵||zūn||obey, comply with, follow; honor||nil||nil||++
+
+||2059||腐||fǔ||rot, decay, spoil; rotten||nil||nil||++
+
+||2060||疾||jí||illness, disease, sickness; to hate||nil||nil||++
+
+||2061||鸭||yā||duck; Anas species (various)||nil||nil||++
+
+||2062||璃||lí||glass||nil||nil||++
+
+||2063||牢||láo||prison; stable, pen; secure||nil||nil||++
+
+||2064||劣||liè||bad, inferior; slightly||nil||nil||++
+
+||2065||患||huàn||suffer, worry about; suffering||nil||nil||++
+
+||2066||祂||tā||he||nil||nil||++
+
+||2067||呈||chéng||submit, show; appear; petition||nil||nil||++
+
+||2068||浑||hún||muddy, turbid; blend, merge, mix||nil||nil||++
+
+||2069||剂||jì||medicinal preparation||nil||nil||++
+
+||2070||妖||yāo||strange, weird, supernatural||nil||nil||++
+
+||2071||玻||bō||glass||nil||nil||++
+
+||2072||塑||sù||model in clay, sculpt; plastics||nil||nil||++
+
+||2073||飙||biāo||whirlwind, stormy gale||nil||nil||++
+
+||2074||伏||fú||crouch, crawl, lie hidden, conceal||nil||nil||++
+
+||2075||弊||bì||evil, wrong, bad; criminal||nil||nil||++
+
+||2076||扮||bàn||dress up; dress up as||nil||nil||++
+
+||2077||侬||nóng||I; you; family name||nil||nil||++
+
+||2078||渴||kě||thirsty, parched; yearn, pine||nil||nil||++
+
+||2079||歪||wāi||slant; inclined; askewd, awry||nil||nil||++
+
+||2080||苗||miáo||sprouts; Miao nationality||nil||nil||++
+
+||2081||汗||hàn||perspiration, sweat||nil||nil||++
+
+||2082||陶||táo||pottery, ceramics||nil||nil||++
+
+||2083||栋||dòng||the main beams supporting a house||nil||nil||++
+
+||2084||琳||lín||beautiful jade, gem||nil||nil||++
+
+||2085||蓉||róng||hibiscus; Chengdu, Sichuan||nil||nil||++
+
+||2086||埋||mái||bury, secrete, conceal||nil||nil||++
+
+||2087||叡||ruì||astute, profound, shrewd||nil||nil||++
+
+||2088||澎||péng||splatter||nil||nil||++
+
+||2089||并||bìng||combine, annex||nil||nil||++
+
+||2090||泣||qì||cry, sob, weep||nil||nil||++
+
+||2091||腾||téng||fly; gallop; run; prance; rise||nil||nil||++
+
+||2092||柯||kē||axe-handle; stalk, bough; surname||nil||nil||++
+
+||2093||催||cuī||press, urge||nil||nil||++
+
+||2094||畅||chàng||smoothly, freely, unrestrained||nil||nil||++
+
+||2095||勾||gōu||hook, join, connect; entice||nil||nil||++
+
+||2096||樱||yīng||cherry, cherry blossom||nil||nil||++
+
+||2097||阮||ruǎn||ancient musical instrument: surname||nil||nil||++
+
+||2098||斥||chì||to scold, upbraid, accuse, reproach||nil||nil||++
+
+||2099||搜||sōu||search, seek; investigate||nil||nil||++
+
+||2100||踩||cǎi||step on||nil||nil||++
+
+||2101||返||fǎn||return, revert to, restore||nil||nil||++
+
+||2102||坛||tán||an earthenware jar, a jug||nil||nil||++
+
+||2103||垂||chuí||let down; suspend, hand; down||nil||nil||++
+
+||2104||唤||huàn||call, summon; invite; be called||nil||nil||++
+
+||2105||储||chǔ||to save money, store, reserve; an heir||nil||nil||++
+
+||2106||贩||fàn||peddler, hawker, street merchant||nil||nil||++
+
+||2107||匆||cōng||hastily, in haste, hurriedly||nil||nil||++
+
+||2108||添||tiān||append, add to; increase||nil||nil||++
+
+||2109||坑||kēng||pit, hole; bury, trap; harry||nil||nil||++
+
+||2110||柴||chái||firewood, faggots, fuel||nil||nil||++
+
+||2111||邓||dèng||surname||nil||nil||++
+
+||2112||糖||táng||sugar; candy; sweets||nil||nil||++
+
+||2113||昆||kūn||elder brother; descendants||nil||nil||++
+
+||2114||暮||mù||evening, dusk, sunset; ending||nil||nil||++
+
+||2115||柜||guì||cupboard, wardrobe, counter||nil||nil||++
+
+||2116||娟||juān||beautiful, graceful||nil||nil||++
+
+||2117||腹||fù||stomach, belly, abdomen; inside||nil||nil||++
+
+||2118||煮||zhǔ||cook||nil||nil||++
+
+||2119||泛||fàn||to drift, float; careless, reckless||nil||nil||++
+
+||2120||稀||xī||rare, unusual, scarce; sparse||nil||nil||++
+
+||2121||兹||zī||now, here; this; time, year||nil||nil||++
+
+||2122||抑||yì||press down, repress; curb, hinder||nil||nil||++
+
+||2123||携||xī||lead by hand, take with; carry||nil||nil||++
+
+||2124||芭||bā||plantain or banana palm; fragrant||nil||nil||++
+
+||2125||框||kuàng||frame; framework; door frame||nil||nil||++
+
+||2126||彷||páng||like, resembling; resemble||nil||nil||++
+
+||2127||罐||guàn||jar, jug, pitcher, pot||nil||nil||++
+
+||2128||虹||hóng||rainbow||nil||nil||++
+
+||2129||拷||kǎo||torture and interrogate; hit||nil||nil||++
+
+||2130||萍||píng||duckweed; wandering, traveling||nil||nil||++
+
+||2131||臂||bì||arm||nil||nil||++
+
+||2132||袭||xí||raid, attack; inherit||nil||nil||++
+
+||2133||叙||xù||express, state, relate, narrate||nil||nil||++
+
+||2134||吻||wěn||kiss; the lips; coinciding||nil||nil||++
+
+||2135||仿||fǎng||imitate, copy; as if||nil||nil||++
+
+||2136||贼||zéi||thief, traitor||nil||nil||++
+
+||2137||羯||jié||wether, castrated ram; deer skin||nil||nil||++
+
+||2138||浴||yù||bathe, wash; bath||nil||nil||++
+
+||2139||体||tǐ||body; group, class, body, unit||nil||nil||++
+
+||2140||翠||cuì||color green; kingfisher||nil||nil||++
+
+||2141||灿||càn||vivid, illuminating; bright||nil||nil||++
+
+||2142||敲||qiāo||strike, beat, pound, hammer; rap||nil||nil||++
+
+||2143||胁||xié||ribs; armpits; flank; threaten||nil||nil||++
+
+||2144||侣||lǚ||companion; associate with||nil||nil||++
+
+||2145||蚁||yǐ||ants||nil||nil||++
+
+||2146||秩||zhì||order; orderly; salary; decade||nil||nil||++
+
+||2147||佑||yòu||help, protect, bless||nil||nil||++
+
+||2148||谨||jǐn||prudent, cautious; attentive||nil||nil||++
+
+||2149||寡||guǎ||widowed; alone, friendless||nil||nil||++
+
+||2150||岳||yuè||mountain peak; surname||nil||nil||++
+
+||2151||赔||péi||indemnify, suffer loss||nil||nil||++
+
+||2152||掩||yǎn||to cover (with the hand); shut, conceal; ambush||nil||nil||++
+
+||2153||匙||chí||spoon; surname||nil||nil||++
+
+||2154||曹||cáo||ministry officials; surname||nil||nil||++
+
+||2155||纽||niǔ||knot; button; handle, knob; tie||nil||nil||++
+
+||2156||签||qiān||sign, endorse; slip of paper||nil||nil||++
+
+||2157||晋||jìn||advance, increase; promote||nil||nil||++
+
+||2158||喻||yù||metaphor, analogy; example; like||nil||nil||++
+
+||2159||绵||mián||cotton wad; wool; soft, downy||nil||nil||++
+
+||2160||咏||yǒng||sing, hum, chant||nil||nil||++
+
+||2161||摊||tān||spread out, open; apportion||nil||nil||++
+
+||2162||馨||xīn||fragrant, aromatic; distant fragrance||nil||nil||++
+
+||2163||珊||shān||coral||nil||nil||++
+
+||2164||孕||yùn||be pregnant, pregnancy||nil||nil||++
+
+||2165||杰||jié||hero; outstanding, remarkable||nil||nil||++
+
+||2166||拘||jū||restrain, seize, detain||nil||nil||++
+
+||2167||哟||yo||ah, final particle||nil||nil||++
+
+||2168||羡||xiàn||envy, admire; praise; covet||nil||nil||++
+
+||2169||肤||fū||skin; superficial, shallow||nil||nil||++
+
+||2170||肝||gān||liver||nil||nil||++
+
+||2171||袍||páo||long gown, robe, cloak||nil||nil||++
+
+||2172||罩||zhào||basket for catching fish; cover||nil||nil||++
+
+||2173||叛||pàn||rebel; rebellion; rebellious||nil||nil||++
+
+||2174||御||yù||defend, resist, hold out against||nil||nil||++
+
+||2175||谜||mí||riddle, conundrum; puzzle||nil||nil||++
+
+||2176||嫁||jià||to marry, give a daughter in marriage||nil||nil||++
+
+||2177||庙||miào||temple, shrine; imperial court||nil||nil||++
+
+||2178||肠||cháng||intestines; emotions; sausage||nil||nil||++
+
+||2179||谎||huǎng||lie||nil||nil||++
+
+||2180||潘||pān||surname; water in which rice has been rinsed; a river that flows into the Han||nil||nil||++
+
+||2181||埔||bù||plain, arena; port, market||nil||nil||++
+
+||2182||卜||bó||radish||nil||nil||++
+
+||2183||占||zhān||divine; observe; versify||nil||nil||++
+
+||2184||拦||lán||obstruct, impede, bar, hinder||nil||nil||++
+
+||2185||煌||huáng||bright, shining, luminous||nil||nil||++
+
+||2186||俄||é||sudden(ly), soon; Russian||nil||nil||++
+
+||2187||札||zhá||letter, note; correspondence||nil||nil||++
+
+||2188||骤||zòu||procedure; gallop; sudden(ly)||nil||nil||++
+
+||2189||陌||mò||foot path between rice fields||nil||nil||++
+
+||2190||澄||chéng||purify water by allowing sediment to settle; clear, pure||nil||nil||++
+
+||2191||仓||cāng||granary; berth; sea||nil||nil||++
+
+||2192||匪||fěi||bandits, robbers, gangsters||nil||nil||++
+
+||2193||宵||xiāo||night, evening, dark||nil||nil||++
+
+||2194||钮||niǔ||button, knob; surname||nil||nil||++
+
+||2195||岗||gǎng||post; position||nil||nil||++
+
+||2196||荡||dàng||pond, pool; wash away, cleanse||nil||nil||++
+
+||2197||卸||xiè||lay down; retire from office||nil||nil||++
+
+||2198||旨||zhǐ||purpose, aim; excellent||nil||nil||++
+
+||2199||粽||zòng||dumpling made of glutinous rice||nil||nil||++
+
+||2200||贸||mào||trade, barter; mixed; rashly||nil||nil||++
+
+||2201||舌||shé||tongue; clapper of bell; KangXi radical 135||nil||nil||++
+
+||2202||历||lì||take place, past, history||nil||nil||++
+
+||2203||叮||dīng||exhort or enjoin repeatedly||nil||nil||++
+
+||2204||咒||zhòu||curse, damn, incantation||nil||nil||++
+
+||2205||钥||yào||key; lock||nil||nil||++
+
+||2206||苹||pín||apple||nil||nil||++
+
+||2207||祭||jì||sacrifice to, worship||nil||nil||++
+
+||2208||屈||qū||bend, flex; bent, crooked; crouch||nil||nil||++
+
+||2209||陋||lòu||narrow; crude, coarse; ugly||nil||nil||++
+
+||2210||雀||què||sparrow||nil||nil||++
+
+||2211||睹||dǔ||look at, gaze at; observe||nil||nil||++
+
+||2212||媚||mèi||charming, attractive; flatter||nil||nil||++
+
+||2213||娜||nuó||elegant, graceful, delicate||nil||nil||++
+
+||2214||诱||yòu||persuade, entice, induce; guide||nil||nil||++
+
+||2215||衷||zhōng||heart, from bottom of one's heart||nil||nil||++
+
+||2216||菁||jīng||flower of leek family; turnip||nil||nil||++
+
+||2217||殿||diàn||hall; palace; temple||nil||nil||++
+
+||2218||撕||sī||rip, tear; buy cloth||nil||nil||++
+
+||2219||蠢||chǔn||wriggle; stupid; silly; fat||nil||nil||++
+
+||2220||惟||wéi||but, however, nevertheless; only||nil||nil||++
+
+||2221||嚣||xiāo||be noisy; treat with contempt||nil||nil||++
+
+||2222||踊||yǒng||leap, jump||nil||nil||++
+
+||2223||跨||kuà||straddle, bestride, ride; carry||nil||nil||++
+
+||2224||膀||bǎng||upper arm; shoulder; wing||nil||nil||++
+
+||2225||筒||tǒng||thick piece of bamboo; pipe||nil||nil||++
+
+||2226||纹||wén||line, streak, stripe; wrinkle||nil||nil||++
+
+||2227||乳||rǔ||breast, nipples; milk, suckle||nil||nil||++
+
+||2228||仗||zhàng||rely upon; protector; fight; war, weaponry||nil||nil||++
+
+||2229||轴||zhóu||axle, axletree; pivot; axis||nil||nil||++
+
+||2230||撤||chè||omit; remove; withdraw||nil||nil||++
+
+||2231||潭||tán||deep pool, lake; deep, profound||nil||nil||++
+
+||2232||佛||fó||Buddha; of Buddhism; merciful percon; Buddhist image; the dead (Jap.)||nil||nil||++
+
+||2233||桂||guì||cassia or cinnamon||nil||nil||++
+
+||2234||愤||fèn||resent, hate; indignant||nil||nil||++
+
+||2235||捧||pěng||hold up in two hands||nil||nil||++
+
+||2236||袖||xiù||sleeve; put something in sleeve||nil||nil||++
+
+||2237||埃||āi||fine dust, dirt||nil||nil||++
+
+||2238||壹||yī||number one||nil||nil||++
+
+||2239||赫||hè||bright, radiant, glowing||nil||nil||++
+
+||2240||谦||qiān||humble, modest||nil||nil||++
+
+||2241||汇||huì||collect, compile, assemble; hedgehog||nil||nil||++
+
+||2242||魏||wèi||kingdom of Wei; surname||nil||nil||++
+
+||2243||粹||cuì||pure; unadulterated; select||nil||nil||++
+
+||2244||傅||fù||tutor, teacher; assist; surname||nil||nil||++
+
+||2245||寮||liáo||shanty, hut, shack||nil||nil||++
+
+||2246||猴||hóu||monkey, ape; monkey-like||nil||nil||++
+
+||2247||衰||shuāi||decline, falter, decrease; weaken||nil||nil||++
+
+||2248||辜||gū||crime, criminal offense||nil||nil||++
+
+||2249||恳||kěn||sincere, earnest, cordial||nil||nil||++
+
+||2250||桶||tǒng||pail, bucket, tub; cask, keg||nil||nil||++
+
+||2251||吋||cùn||inch||nil||nil||++
+
+||2252||衫||shān||shirt; robe; gown; jacket||nil||nil||++
+
+||2253||瞬||shùn||wink, blink; in a wink, a flash||nil||nil||++
+
+||2254||冻||dòng||freeze; cold, congeal; jelly||nil||nil||++
+
+||2255||猎||liè||hunt; field sports||nil||nil||++
+
+||2256||琼||qióng||jade; rare, precious; elegant||nil||nil||++
+
+||2257||卿||qīng||noble, high officer||nil||nil||++
+
+||2258||戚||qī||relative; be related to; sad||nil||nil||++
+
+||2259||卓||zhuō||profound, brilliant, lofty||nil||nil||++
+
+||2260||殖||zhí||breed, spawn; increase; prosper||nil||nil||++
+
+||2261||泼||pō||pour, splash, water, sprinkle; violent, malignant||nil||nil||++
+
+||2262||譬||pì||metaphor, simile, example||nil||nil||++
+
+||2263||翰||hàn||writing brush, pen, pencil||nil||nil||++
+
+||2264||刮||guā||to blow||nil||nil||++
+
+||2265||斌||bīn||refined, having both appearance||nil||nil||++
+
+||2266||枉||wǎng||useless, in vain; bent, crooked||nil||nil||++
+
+||2267||梁||liáng||bridge; beam; rafters; surname||nil||nil||++
+
+||2268||庞||páng||disorderly, messy; huge, big||nil||nil||++
+
+||2269||闽||mǐn||fujian province; a river; a tribe||nil||nil||++
+
+||2270||宅||zhái||residence, dwelling, home; grave||nil||nil||++
+
+||2271||麟||lín||female of Chinese unicorn||nil||nil||++
+
+||2272||宰||zǎi||to slaughter; to rule||nil||nil||++
+
+||2273||梭||suō||weaver's shuttle; go to and fro||nil||nil||++
+
+||2274||纠||jiǎo||investigate, inspect||nil||nil||++
+
+||2275||丛||cóng||bush, shrub; thicket; collection||nil||nil||++
+
+||2276||雕||diāo||engrave, inlay, carve; exhaust; used for U+9D70 鵰 an eagle, vulture||nil||nil||++
+
+||2277||澳||ào||inlet, bay; dock, bank||nil||nil||++
+
+||2278||毙||bì||kill; die violent death||nil||nil||++
+
+||2279||颖||yǐng||rice tassel; sharp point; clever||nil||nil||++
+
+||2280||腔||qiāng||chest cavity; hollow in body||nil||nil||++
+
+||2281||伫||zhù||wait; look towards; turn one's back on||nil||nil||++
+
+||2282||躺||tǎng||lie down, recline||nil||nil||++
+
+||2283||划||huà||delineate, painting, picture, drawing; draw||nil||nil||++
+
+||2284||寺||sì||court, office; temple, monastery||nil||nil||++
+
+||2285||炼||liàn||smelt, refine; distill, condense||nil||nil||++
+
+||2286||胃||wèi||stomach; gizzard of fowl||nil||nil||++
+
+||2287||昂||áng||rise, raise; proud, bold; upright||nil||nil||++
+
+||2288||勋||xūn||meritorious deed; merits; rank||nil||nil||++
+
+||2289||骄||jiāo||spirited horse; haughty||nil||nil||++
+
+||2290||卑||bēi||humble, low, inferior; despise||nil||nil||++
+
+||2291||蚂||mǎ||ant; leech||nil||nil||++
+
+||2292||墓||mù||grave, tomb||nil||nil||++
+
+||2293||冥||míng||dark, gloomy, night; deep||nil||nil||++
+
+||2294||妄||wàng||absurd, foolish, reckless; false||nil||nil||++
+
+||2295||董||dǒng||direct, supervise; surname||nil||nil||++
+
+||2296||淋||lín||drip, soak, drench; perfectly||nil||nil||++
+
+||2297||卢||lú||cottage, hut; surname; black||nil||nil||++
+
+||2298||偿||cháng||repay, recompense; restitution||nil||nil||++
+
+||2299||姻||yīn||relatives by marriage||nil||nil||++
+
+||2300||砸||zá||smash, crush, break; pound, mash||nil||nil||++
+
+||2301||践||jiàn||trample, tread upon, walk on||nil||nil||++
+
+||2302||殷||yīn||many, great; abundant, flourishing||nil||nil||++
+
+||2303||润||rùn||soft, moist; sleek; freshen||nil||nil||++
+
+||2304||铜||tóng||copper, brass, bronze cuprum||nil||nil||++
+
+||2305||盲||máng||blind; unperceptive, shortsighted||nil||nil||++
+
+||2306||扎||zhā||pull up; pierce; struggle free||nil||nil||++
+
+||2307||驳||bó||varicolored, variegated; mixed; contradict, argue; suddenly||nil||nil||++
+
+||2308||湿||shī||wet, moist, humid, damp; an illness||nil||nil||++
+
+||2309||凑||còu||piece together, assemble||nil||nil||++
+
+||2310||炒||chǎo||fry, saute, roast, boil, cook||nil||nil||++
+
+||2311||尿||niào||urine; urinate||nil||nil||++
+
+||2312||穴||xuè||cave, den, hole; rad. no. 116||nil||nil||++
+
+||2313||蟑||zhāng||cockroach||nil||nil||++
+
+||2314||拓||tuò||expand; open up; support or push||nil||nil||++
+
+||2315||诡||guǐ||deceive, cheat, defraud; sly||nil||nil||++
+
+||2316||谬||miù||error, exaggeration; erroneous||nil||nil||++
+
+||2317||淫||yín||obscene, licentious, lewd||nil||nil||++
+
+||2318||荡||dàng||pond, pool; wash away, cleanse||nil||nil||++
+
+||2319||鼎||dǐng||large, three-legged bronze caldron||nil||nil||++
+
+||2320||斩||zhǎn||cut, chop, sever; behead||nil||nil||++
+
+||2321||尧||yáo||a legendary ancient emperor-sage||nil||nil||++
+
+||2322||伪||wěi||false, counterfeit, bogus||nil||nil||++
+
+||2323||饿||è||hungry; greedy for; hunger||nil||nil||++
+
+||2324||驰||chí||go quickly or swiftly; hurry||nil||nil||++
+
+||2325||蚊||wén||mosquito; gnat||nil||nil||++
+
+||2326||瘟||wēn||epidemic, plague, pestilence||nil||nil||++
+
+||2327||肢||zhī||human limbs; animal feet||nil||nil||++
+
+||2328||挫||cuò||push down; chop down; grind||nil||nil||++
+
+||2329||槽||cáo||trough; manger; vat, tank; groove; a distillery||nil||nil||++
+
+||2330||扶||fú||support, help; protect; hold on||nil||nil||++
+
+||2331||兆||zhào||omen; million; mega; also trillion. China = million; Japan and Taiwan = trillion||nil||nil||++
+
+||2332||僧||sēng||Buddhist priest, monk; san of Sanskrit sangha||nil||nil||++
+
+||2333||昧||mèi||obscure, dark; darken||nil||nil||++
+
+||2334||螂||láng||mantis, dung beetle||nil||nil||++
+
+||2335||匹||pǐ||bolt of cloth; counter for horses||nil||nil||++
+
+||2336||芝||zhī||sesame; a purplish or brown mushroom thought to have miraculous powers; 'a divine and relicitous plant' (Karlgren)||nil||nil||++
+
+||2337||奸||jiān||adultery, debauchery; debauch||nil||nil||++
+
+||2338||聘||pìn||engage, employ; betroth||nil||nil||++
+
+||2339||眷||juàn||take interest in, care for||nil||nil||++
+
+||2340||熙||xī||bright, splendid, glorious||nil||nil||++
+
+||2341||猩||xīng||species of orangutan||nil||nil||++
+
+||2342||痒||yǎng||itch||nil||nil||++
+
+||2343||帖||tiē||invitation card; notice||nil||nil||++
+
+||2344||贫||pín||poor, impoverished, needy||nil||nil||++
+
+||2345||贿||huì||bribe; bribes; riches, wealth||nil||nil||++
+
+||2346||扑||pū||pound, beat, strike; attack||nil||nil||++
+
+||2347||笼||lóng||cage; cage-like basket||nil||nil||++
+
+||2348||丘||qiū||hill; elder; empty; a name||nil||nil||++
+
+||2349||颠||diān||top, peak, summit; upset||nil||nil||++
+
+||2350||讶||yà||express surprise, be surprised||nil||nil||++
+
+||2351||玮||wěi||type of jade; rare, valuable||nil||nil||++
+
+||2352||尹||yǐn||govern; oversee; director||nil||nil||++
+
+||2353||诇||xiòng||to spy; to give information; shrewd||nil||nil||++
+
+||2354||柱||zhù||pillar, post; support; lean on||nil||nil||++
+
+||2355||袁||yuán||robe; surname||nil||nil||++
+
+||2356||漆||qī||varnish, lacquer, paint||nil||nil||++
+
+||2357||毋||wú||do not; not; surname; rad. 80||nil||nil||++
+
+||2358||辣||là||peppery, pungent, hot; cruel||nil||nil||++
+
+||2359||棍||gùn||stick, cudgel; scoundrel||nil||nil||++
+
+||2360||矩||jǔ||carpenter's square, ruler, rule||nil||nil||++
+
+||2361||佐||zuǒ||assist, aid, second; subordinate||nil||nil||++
+
+||2362||澡||zǎo||wash, bathe||nil||nil||++
+
+||2363||渊||yuān||gulf, abyss, deep||nil||nil||++
+
+||2364||痞||pǐ||dyspepsia, spleen infection||nil||nil||++
+
+||2365||矮||ǎi||short, dwarf; low||nil||nil||++
+
+||2366||戈||gē||halberd, spear, lance; rad. 62||nil||nil||++
+
+||2367||勃||bó||suddenly, sudden, quick||nil||nil||++
+
+||2368||吞||tūn||swallow; absorb, annex, engulf||nil||nil||++
+
+||2369||肆||sì||indulge; excess; numeral four; particle meaning now, therefore; shop||nil||nil||++
+
+||2370||抖||dǒu||tremble, shake, rouse; give shake||nil||nil||++
+
+||2371||咳||ké||cough||nil||nil||++
+
+||2372||亭||tíng||pavilion; erect||nil||nil||++
+
+||2373||淘||táo||wash in sieve; weed out||nil||nil||++
+
+||2374||穗||suì||ear of grain; tassel; Guangzhou||nil||nil||++
+
+||2375||黏||nián||stick to; glutinous, sticky; glue||nil||nil||++
+
+||2376||冈||gāng||ridge or crest of hill||nil||nil||++
+
+||2377||歧||qí||fork of road; branching off||nil||nil||++
+
+||2378||屑||xiè||bits, scraps, crumbs, fragments||nil||nil||++
+
+||2379||拢||lǒng||collect, bring together||nil||nil||++
+
+||2380||潇||xiāo||sound of beating wind and rain; light, ethereal||nil||nil||++
+
+||2381||谐||xié||harmonize, agree; joke, jest||nil||nil||++
+
+||2382||遣||qiǎn||send, dispatch; send off, exile||nil||nil||++
+
+||2383||诊||zhěn||examine patient, diagnose||nil||nil||++
+
+||2384||祈||qí||pray; entreat, beseech||nil||nil||++
+
+||2385||霜||shuāng||frost; crystallized; candied||nil||nil||++
+
+||2386||熬||áo||cook down, to boil; endure||nil||nil||++
+
+||2387||饶||ráo||bountiful, abundant, plentiful||nil||nil||++
+
+||2388||闯||chuǎng||rush in, burst in, charge in||nil||nil||++
+
+||2389||婉||wǎn||amiable, congenial; restrained||nil||nil||++
+
+||2390||致||zhì||delicate, fine; dense||nil||nil||++
+
+||2391||雁||yàn||wild goose||nil||nil||++
+
+||2392||觅||mì||seek; search||nil||nil||++
+
+||2393||讽||fēng||recite, incant; satirize||nil||nil||++
+
+||2394||膜||mò||membrane; to kneel and worship||nil||nil||++
+
+||2395||挣||zhēng||to strive, endeavor, struggle; to earn; to pierce; to wedge in||nil||nil||++
+
+||2396||斤||jīn||a catty (approximately 500 g); an axe; keen, shrewd; KangXi radical number 69||nil||nil||++
+
+||2397||帆||fān||sail; boat||nil||nil||++
+
+||2398||铺||pū||spread out, arrange; shop, store; place to sleep, bed||nil||nil||++
+
+||2399||凄||qī||bitter cold, miserable, dreary||nil||nil||++
+
+||2400||瑟||sè||large stringed musical instrument; dignified, massive; sound of wind||nil||nil||++
+
+||2401||艇||tǐng||small boat, dugout, punt||nil||nil||++
+
+||2402||壶||hú||jar, pot, jug, vase; surname||nil||nil||++
+
+||2403||苑||yuàn||pasture, park, garden; mansion||nil||nil||++
+
+||2404||悬||xuán||hang, suspend, hoist; be hung||nil||nil||++
+
+||2405||詹||zhān||surname; talk too much, verbose||nil||nil||++
+
+||2406||诠||quán||explain, expound, comment on||nil||nil||++
+
+||2407||滤||lǖ||strain out, filter||nil||nil||++
+
+||2408||掰||bāi||||nil||nil||++
+
+||2409||稚||zhì||young, immature; childhood||nil||nil||++
+
+||2410||辰||chén||early morning; 5th terrestrial branch||nil||nil||++
+
+||2411||募||mù||levy, raise; summon; recruit||nil||nil||++
+
+||2412||懿||yì||virtuous, admirable, esteemed||nil||nil||++
+
+||2413||慨||kǎi||sigh, regret; generous||nil||nil||++
+
+||2414||哼||hēng||hum; sing softly; groan, moan||nil||nil||++
+
+||2415||汁||zhī||juice, liquor, fluid, sap, gravy, sauce||nil||nil||++
+
+||2416||佬||lǎo||(Cant.) man, person; mature||nil||nil||++
+
+||2417||纤||xiān||fine, delicate; minute; graceful||nil||nil||++
+
+||2418||肃||sù||pay respects; reverently||nil||nil||++
+
+||2419||遨||áo||ramble, roam; travel for pleasure||nil||nil||++
+
+||2420||渔||yú||to fish; seize; pursue; surname||nil||nil||++
+
+||2421||恕||shù||forgive, excuse, show mercy||nil||nil||++
+
+||2422||蝴||hú||butterfly||nil||nil||++
+
+||2423||垫||diàn||advance money, pay for another||nil||nil||++
+
+||2424||昱||yù||bright light, sunlight; dazzling||nil||nil||++
+
+||2425||竿||gān||bamboo pole; penis||nil||nil||++
+
+||2426||缝||féng||sew, mend||nil||nil||++
+
+||2427||蹈||dào||stamp feet; dance||nil||nil||++
+
+||2428||鞭||biān||whip; whip; string of firecrackers||nil||nil||++
+
+||2429||仆||pú||slave, servant, I||nil||nil||++
+
+||2430||豫||yù||relaxed, comfortable, at ease||nil||nil||++
+
+||2431||岩||yán||cliff; rocks; mountain||nil||nil||++
+
+||2432||辐||fú||spokes of wheel||nil||nil||++
+
+||2433||歹||dǎi||bad, vicious, depraved, wicked||nil||nil||++
+
+||2434||甄||zhēn||to examine, discern; to grade; a surname||nil||nil||++
+
+||2435||斑||bān||mottled, striped, freckle||nil||nil||++
+
+||2436||淹||yān||drown; cover with liquid, steep||nil||nil||++
+
+||2437||崎||qí||rough, uneven, jagged, rugged||nil||nil||++
+
+||2438||骏||jùn||excellent horse, noble steed||nil||nil||++
+
+||2439||薰||xūn||a medicinal herb; to cauterize||nil||nil||++
+
+||2440||婷||tíng||pretty; attractive; graceful||nil||nil||++
+
+||2441||宠||chǒng||favorite, concubine; favor||nil||nil||++
+
+||2442||棵||kē||numerary adjunct for trees||nil||nil||++
+
+||2443||弓||gōng||bow; curved, arched; KangXi radical number 57||nil||nil||++
+
+||2444||犬||quǎn||dog; radical number 94||nil||nil||++
+
+||2445||涂||tú||smear, daub, apply, spread; paint||nil||nil||++
+
+||2446||刹||chà||temple||nil||nil||++
+
+||2447||郁||yù||luxuriant; dense, thick; moody||nil||nil||++
+
+||2448||坎||kǎn||pit, hole; snare, trap; crisis||nil||nil||++
+
+||2449||煎||jiān||fry in fat or oil; boil in water||nil||nil||++
+
+||2450||螺||luó||spiral shell; conch; spiral||nil||nil||++
+
+||2451||遮||zhē||cover, shield, protect||nil||nil||++
+
+||2452||枯||kū||dried out, withered, decayed||nil||nil||++
+
+||2453||台||tái||taiphoon||nil||nil||++
+
+||2454||昔||xí||formerly; ancient; in beginning||nil||nil||++
+
+||2455||瘾||yǐn||rash; addiction, craving, habit||nil||nil||++
+
+||2456||蒂||dì||peduncle or stem of plants||nil||nil||++
+
+||2457||坠||zhuì||fall down, drop, sink, go to ruin||nil||nil||++
+
+||2458||唔||wú||hold in mouth; bite||nil||nil||++
+
+||2459||瞎||xiā||blind, reckless; rash||nil||nil||++
+
+||2460||筝||zhēng||stringed musical instrument; kite||nil||nil||++
+
+||2461||唇||chún||lips||nil||nil||++
+
+||2462||表||biǎo||a watch, clock||nil||nil||++
+
+||2463||吁||xū||interjection 'Alas!'; to sigh||nil||nil||++
+
+||2464||冤||yuān||grievance, injustice, wrong||nil||nil||++
+
+||2465||祷||dǎo||pray; entreat, beg, plead; prayer||nil||nil||++
+
+||2466||甩||shuǎi||throw away, discard||nil||nil||++
+
+||2467||伞||sǎn||umbrella, parasol, parachute||nil||nil||++
+
+||2468||酱||jiàng||any jam-like or paste-like food||nil||nil||++
+
+||2469||范||fàn||pattern, model, rule, law||nil||nil||++
+
+||2470||焉||yān||thereupon, then; how? why? where?||nil||nil||++
+
+||2471||娇||jiāo||seductive and loveable; tender||nil||nil||++
+
+||2472||驼||tuó||a camel; humpbacked; to carry on the back||nil||nil||++
+
+||2473||沦||lún||be lost; sink, be submerged||nil||nil||++
+
+||2474||碳||tàn||carbon||nil||nil||++
+
+||2475||沾||zhān||moisten, wet, soak; touch||nil||nil||++
+
+||2476||抚||fǔ||pat, console, comfort; pacify||nil||nil||++
+
+||2477||溶||róng||to melt, dissolve; overflowing with||nil||nil||++
+
+||2478||叠||dié||repeat, duplicate; repetitious||nil||nil||++
+
+||2479||几||jǐ||how many? how much?; a few, some||nil||nil||++
+
+||2480||蜡||là||wax; candle; waxy, glazed||nil||nil||++
+
+||2481||涌||yǒng||surge up, bubble up, gush forth||nil||nil||++
+
+||2482||氧||yǎng||oxygen||nil||nil||++
+
+||2483||弦||xián||string; hypotenuse, crescent||nil||nil||++
+
+||2484||娱||yú||pleasure, enjoyment, amusement||nil||nil||++
+
+||2485||皓||hào||bright, luminous; clear; hoary||nil||nil||++
+
+||2486||奴||nú||slave, servant||nil||nil||++
+
+||2487||颓||tuí||ruined||nil||nil||++
+
+||2488||嘎||gā||sound of laughter; bad, malevolent||nil||nil||++
+
+||2489||趟||tàng||time, occasion; take journey||nil||nil||++
+
+||2490||揭||jiē||raise, lift up; surname||nil||nil||++
+
+||2491||当||dāng||sound of bells||nil||nil||++
+
+||2492||剥||bō||peel, peel off, to shell, strip||nil||nil||++
+
+||2493||垦||kěn||cultivate, reclaim, to farm land||nil||nil||++
+
+||2494||狭||xiá||narrow, limited; narrow-minded; to pinch||nil||nil||++
+
+||2495||魁||kuí||chief; leader; best; monstrous||nil||nil||++
+
+||2496||坊||fāng||neighborhood, urban subdivision||nil||nil||++
+
+||2497||盐||yán||variant of 塩 U+5869, salt||nil||nil||++
+
+||2498||屎||shǐ||excrement, dung||nil||nil||++
+
+||2499||郝||hǎo||surname; place in modern Shanxi||nil||nil||++
+
+||2500||佩||pèi||belt ornament, pendant; wear at waist, tie to the belt; respect||nil||nil||++
