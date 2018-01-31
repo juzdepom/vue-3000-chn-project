@@ -6,7 +6,7 @@
         <div v-for="(box, i) in flashcardBoxes"
           :key="i"
           class="col-xl-2 col-md-3 col-sm-4 col-6 ">
-          <stats-card>
+          <stats-card class="card-box" @click="clicked">
             <div slot="header" >
               <i
                 class="ico-icon icon-box-filled"
@@ -69,6 +69,11 @@
       LTable,
       Card,
       StatsCard,
+    },
+    methods: {
+      clicked(){
+        console.log('click')
+      }
     },
     data () {
       return {
@@ -208,5 +213,8 @@
 <style>
   .card-category.small {
     font-size: 12px;
+  }
+  .card-box {
+    cursor: pointer;
   }
 </style>
