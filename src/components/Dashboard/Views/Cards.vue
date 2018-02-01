@@ -6,7 +6,11 @@
         <div v-for="(box, i) in flashcardBoxes"
           :key="i"
           class="col-xl-2 col-md-3 col-sm-4 col-6 ">
-          <stats-card class="card-box" @click="clicked">
+          <stats-card
+            class="card-box"
+            :class="shadow"
+            @click="clicked"
+            >
             <div slot="header" >
               <i
                 class="ico-icon icon-box-filled"
@@ -84,6 +88,8 @@
           // columns: [...tableColumns],
           data: [...tableData],
         },
+        boxKey: 0,
+
         // columns: ['Id', 'Name', 'Salary', 'Country', 'City'],
         // columns: ['Rank', 'Character', 'Pinyin', 'English'],
         // table2: {
@@ -97,6 +103,11 @@
     computed: {
       length(){
         return ONE_THOUSAND;
+      },
+      shadow(){
+        return {
+          'box-shadow': true,
+        }
       }
     }
   }
@@ -173,44 +184,15 @@
     "engEg": null
   },
   ]
-  // const tableData = [{
-  //   id: 1,
-  //   name: 'Dakota Rice',
-  //   salary: '$36.738',
-  //   country: 'Niger',
-  //   city: 'Oud-Turnhout',
-  //   experiment: 'EXPERIMENT',
-  // },
-  // {
-  //   id: 2,
-  //   name: 'Minerva Hooper',
-  //   salary: '$23,789',
-  //   country: 'Curaçao',
-  //   city: 'Sinaai-Waas'
-  // },
-  // {
-  //   id: 3,
-  //   name: 'Sage Rodriguez',
-  //   salary: '$56,142',
-  //   country: 'Netherlands',
-  //   city: 'Baileux'
-  // },
-  // {
-  //   id: 4,
-  //   name: 'Philip Chaney',
-  //   salary: '$38,735',
-  //   country: 'Korea, South',
-  //   city: 'Overland Park'
-  // },
-  // {
-  //   id: 5,
-  //   name: 'Doris Greene',
-  //   salary: '$63,542',
-  //   country: 'Malawi',
-  //   city: 'Feldkirchen in Kärnten'
-  // }]
+
 </script>
+
 <style>
+  .box-shadow {
+    -webkit-box-shadow: 0px 3px 12px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 3px 12px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 3px 12px 0px rgba(0,0,0,0.75);
+  }
   .card-category.small {
     font-size: 12px;
   }
